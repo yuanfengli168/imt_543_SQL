@@ -1,0 +1,8 @@
+In this revised version, I corrected the mistakes that I have made. 
+
+I always believe we will learn from out mistakes, so that is the 
+reason why you can find most of my repositories have a revised 
+folder.
+
+Revised sql file is the file that includes corrected answer, 
+and the other is what I submitted and got graded. 
